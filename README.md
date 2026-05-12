@@ -1,34 +1,20 @@
 # Hi, I'm Shaida Reid 
-### Cybersecurity Analyst 
-I’m a cybersecurity analyst with hands-on experience in security operations, incident investigation, and cloud security.
-My work focuses on log analysis, threat detection, and identity security, with experience analyzing security events and supporting secure system configurations.
+### Cybersecurity Graduate
+- Cybersecurity graduate focused on security operations, threat detection, and cloud security
+- Interested in SIEM analysis, incident response, threat hunting, and identity security
 
 ---
 
 ## 🔎 Cybersecurity Projects
 
-Currently building and documenting hands-on projects focused on:
-- Security operations and threat detection  
-- Cloud and identity security  
-- Log analysis and incident response  
+- [Wireshark Phishing Investigation](https://github.com/s-reese/WiresharkPhisingInvestigation)
+- [Splunk SIEM Threat Analysis](https://github.com/s-reese/Splunk-SIEM-Threat-Analysis)
+- [Malware Investigation & Incident Response](https://github.com/s-reese/Malware-Investigation)
+- [SolarWinds Threat Hunting Investigation](https://github.com/s-reese/Solar-Winds-Threat-Hunting)
+
 
 ---
 
-## 🧰 Technical Skills
-
-**Security & Monitoring**  
-Splunk, Wireshark, Wazuh  
-
-**Identity & Access Management**  
-Azure AD (Entra ID), Active Directory (Foundational)  
-
-**Cloud**  
-AWS (EC2, S3, IAM), Cloud Security Fundamentals  
-
-**Security Concepts**  
-Incident Response, Threat Detection, Log Analysis, Vulnerability Management  
-
----
 
 ## 🎓 Certifications
 
